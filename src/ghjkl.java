@@ -6,7 +6,7 @@ public class ghjkl {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+fghjkjhgfdswertyuio
 	}
 
 }
